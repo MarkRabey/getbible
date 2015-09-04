@@ -1,4 +1,4 @@
-# getbible-node [![NPM version][npm-image]][npm-url] [![Build Status][travis-image]][travis-url] [![Dependency Status][daviddm-image]][daviddm-url]
+# getbible [![NPM version][npm-image]][npm-url] [![Build Status][travis-image]][travis-url] [![Dependency Status][daviddm-image]][daviddm-url]
 > Node.js wrapper for the getbible.net API
 
 
@@ -22,9 +22,9 @@ var bibleAPI = new GetBible();
 MIT © [Mark Rabey](http://markrabey.com)
 
 
-[npm-image]: https://badge.fury.io/js/getbible-node.svg
-[npm-url]: https://npmjs.org/package/getbible-node
-[travis-image]: https://travis-ci.org/MarkRabey/getbible-node.svg?branch=master
-[travis-url]: https://travis-ci.org/MarkRabey/getbible-node
-[daviddm-image]: https://david-dm.org/MarkRabey/getbible-node.svg?theme=shields.io
-[daviddm-url]: https://david-dm.org/MarkRabey/getbible-node
+[npm-image]: https://badge.fury.io/js/getbible.svg
+[npm-url]: https://npmjs.org/package/getbible
+[travis-image]: https://travis-ci.org/MarkRabey/getbible.svg?branch=master
+[travis-url]: https://travis-ci.org/MarkRabey/getbible
+[daviddm-image]: https://david-dm.org/MarkRabey/getbible.svg?theme=shields.io
+[daviddm-url]: https://david-dm.org/MarkRabey/getbible
