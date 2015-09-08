@@ -34,6 +34,7 @@
   "license": "MIT",
   "dependencies": {
     "extend": "^3.0.0",
-    "request": "^2.61.0"
+    "request": "^2.61.0",
+    "request-json": "^0.5.3"
   }
 }
