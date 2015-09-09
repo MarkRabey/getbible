@@ -1,9 +1,12 @@
 {
   "name": "getbible",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Node.js wrapper for the getbible.net API",
-  "homepage": "http://markrabey.github.io/getbible",
-  "repository": "MarkRabey/getbible",
+  "homepage": "http://getbible.net",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MarkRabey/getbible.git"
+  },
   "author": {
     "name": "Mark Rabey",
     "email": "mark@markrabey.com",
